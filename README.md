@@ -177,3 +177,6 @@ You can check Concordium's Code of Conduct [here](https://github.com/Concordium/
 | :-: | :-: | :-: | :-: | :-: |
 | [Concordium Foundation Website](https://concordium.com) | [Concordium Twitter](https://twitter.com/ConcordiumNet) | [Concordium Medium](https://medium.com/@concordium) | [Concordium Reddit](https://www.reddit.com/r/Concordium_Official/) | [Concordium YouTube](https://www.youtube.com/channel/UCPZc2CuB2jGbZjD_5zX7-1A) |
 
+Lending Protocol for Concordium
+
+
